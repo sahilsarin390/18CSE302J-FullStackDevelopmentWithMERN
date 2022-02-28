@@ -6,9 +6,9 @@
 
 <hr>
 <div align="center">
-    ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-    ![Bootstrap](https://img.shields.io/badge/react_bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-    ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+    [![image](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)][React]
+    [![image](https://img.shields.io/badge/react_bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)][Bootstrap]
+    [![image](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)][MUI]
     [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN)](https://badges.pufler.dev)
 </div>
 <hr>
