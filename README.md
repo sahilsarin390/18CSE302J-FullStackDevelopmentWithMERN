@@ -1,14 +1,14 @@
-### Assignment - To replicate a webpage from the official SRM Website: https://www.srmist.edu.in/
+#### Assignment - To replicate a webpage from the official SRM Website: https://www.srmist.edu.in/
 
 #### Solution - So I replicated this - https://www.srmist.edu.in/engineering/dean-message webpage using React.
 
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN)](https://badges.pufler.dev)
 
-#### Original Webpage:
+### Original Webpage:
 
 ![image](https://raw.githubusercontent.com/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN/master/Assignment-1/sample-webpage/public/React%20App_files/screencapture-srmist.png)
 
-#### Replicated Webpage using React:
+### Replicated Webpage using React:
 
 ![image](https://raw.githubusercontent.com/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN/master/Assignment-1/sample-webpage/public/React%20App_files/screencapture-localhost.png)
 
