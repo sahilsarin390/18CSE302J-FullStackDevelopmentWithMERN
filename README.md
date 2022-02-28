@@ -6,16 +6,12 @@
 
 <hr>
 
----
-
 <div align="center">
     [![image](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)][react]
     [![image](https://img.shields.io/badge/react_bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)][bootstrap]
     [![image](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)][mui]
     [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN)](https://badges.pufler.dev)
 </div>
-
----
 
 <hr>
 
