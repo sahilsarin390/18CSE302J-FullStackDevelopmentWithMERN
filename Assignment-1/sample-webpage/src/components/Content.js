@@ -11,10 +11,10 @@ function Content() {
         <Row>
             <Col className="col-bread" md={{ offset: 2 }}>
                 <Breadcrumb>
-                    <Breadcrumb.Item className="please">Home</Breadcrumb.Item>
-                    <Breadcrumb.Item className="please">Engineering</Breadcrumb.Item>
-                    <Breadcrumb.Item className="please">Dean-message</Breadcrumb.Item>
-                    <Breadcrumb.Item className="ppplease">Dean's Message</Breadcrumb.Item>
+                    <Breadcrumb.Item className="please" active>Home</Breadcrumb.Item>
+                    <Breadcrumb.Item className="please" active>Engineering</Breadcrumb.Item>
+                    <Breadcrumb.Item className="please" active>Dean-message</Breadcrumb.Item>
+                    <Breadcrumb.Item className="ppplease" active>Dean's Message</Breadcrumb.Item>
                 </Breadcrumb>
             </Col>
         </Row>

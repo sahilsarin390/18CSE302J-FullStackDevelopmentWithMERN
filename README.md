@@ -1,3 +1,9 @@
+## Assignment - To replicate a webpage from the official SRM Website: https://www.srmist.edu.in/
+
+### Solution - So I created this - https://www.srmist.edu.in/engineering/dean-message webpage using React.
+
+[![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN)](https://badges.pufler.dev)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
