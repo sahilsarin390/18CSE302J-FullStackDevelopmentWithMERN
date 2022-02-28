@@ -1,3 +1,5 @@
+<hr>
+
 #### Assignment - To replicate a webpage from the official SRM Website: https://www.srmist.edu.in/
 
 #### Solution - So I replicated this - https://www.srmist.edu.in/engineering/dean-message webpage using React.
