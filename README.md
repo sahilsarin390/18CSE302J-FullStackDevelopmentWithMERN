@@ -1,6 +1,6 @@
 ### Assignment - To replicate a webpage from the official SRM Website: https://www.srmist.edu.in/
 
-#### Solution - So I created this - https://www.srmist.edu.in/engineering/dean-message webpage using React.
+#### Solution - So I replicated this - https://www.srmist.edu.in/engineering/dean-message webpage using React.
 
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN)](https://badges.pufler.dev)
 
