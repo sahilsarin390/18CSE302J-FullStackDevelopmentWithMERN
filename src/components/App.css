@@ -1,0 +1,269 @@
+* {
+  overflow-x: hidden;
+}
+
+body {
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+col-bread {
+  text-decoration: none;
+  margin-left: 50px;
+}
+
+.breadcrumb-item {
+  margin-left: 10px;
+}
+
+.ppplease {
+  color: #000;
+}
+
+.rows {
+  margin-bottom: -15px;
+}
+
+.col-one {
+  word-spacing: 1px;
+  margin-left: 275px;
+}
+
+.row-head {
+  background-color: #18345c;
+  padding: 6px 0;
+  font-size: 11.5px;
+}
+
+.conte {
+  margin-left: 25px;
+}
+
+.columns {
+  color: #fff !important;
+  font-weight: 500;
+  letter-spacing: 0.25px;
+}
+
+.list-col {
+  word-spacing: 6px;
+  letter-spacing: 0.25px;
+  font-weight: 500;
+}
+
+.social-icons {
+  color: #fff;
+}
+
+.row-head .columns .social-icons {
+  padding-left: 2px;
+  margin-left: 10px;
+}
+
+.img-logo {
+  height: 70px;
+  width: 120px;
+}
+
+.search-bar {
+  padding-top: 20px;
+  border-radius: 10px;
+  float: right !important;
+  margin-left: 425px;
+}
+
+.magni {
+  padding-bottom: 5px;
+}
+
+.input-group-sm > .form-control {
+  border-radius: 10px;
+  height: 1.734em;
+  width: 19em;
+  float: right !important;
+}
+
+.col-but {
+  padding-top: 16px;
+  margin-right: 50px;
+}
+
+.seach-but {
+  border-radius: 20px;
+  height: 35px;
+  width: 45px;
+  margin-right: 50px;
+  overflow: hidden;
+}
+
+.btn-secondary {
+  color: #000;
+  background-color: #ececec;
+  border-color: #e4e4e4 #d2d2d2 #b4b4b4;
+}
+
+.btn-secondary:hover {
+  color: #000;
+  background-color: #9f9fa0;
+  border-color: #e4e4e4 #d2d2d2 #b4b4b4;
+  border-radius: 20px;
+}
+
+.img-dean {
+  height: 180px;
+  width: 170px;
+  border: 2px solid rgb(211, 211, 211);
+  border-radius: 5px;
+  padding: 3px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.rowsemi-foot {
+  padding-top: 15px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: #fff;
+  align-content: justify;
+  margin-left: 200px;
+  margin-right: 180px;
+}
+
+.last-pls {
+  background-color: #102540;
+  margin-left: -20px;
+  margin-right: -20px;
+}
+
+.rowsemi-foot-head {
+  color: #dabd38;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  line-height: 1.628571429 !important;
+}
+
+.fooot {
+  background-color: #183464;
+  color: #fff;
+  font-size: 10px;
+  padding: 10px;
+  letter-spacing: 0.4px;
+}
+
+.col-message {
+  font-family: "open_sansregular", Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: normal;
+}
+
+.col-dean {
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #000000;
+  width: 100%;
+  font-family: "montserratsemibold", Helvetica, sans-serif;
+  font-weight: bold !important;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+li {
+  margin-left: -30px;
+}
+
+li li {
+  margin-left: -10px;
+}
+
+.dean-span {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+p {
+  font-family: "open_sansregular", Helvetica, sans-serif;
+  text-align: justify;
+  font-weight: 500;
+  line-height: 1.628571429 !important;
+  letter-spacing: 0.25px;
+  font-size: 14px !important;
+  overflow: visible;
+}
+
+.first-para {
+  padding: none;
+}
+
+.col-foot {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.btn-primary {
+  background-color: #fff;
+  color: #000000;
+  border-color: #fff;
+  box-shadow: none;
+  font-size: 14px;
+  font-weight: bold !important;
+}
+
+.primary.dropdown-toggle {
+  color: #fff;
+  background-color: #fff;
+  border-color: #fff;
+  box-shadow: none;
+}
+
+.btn-primary:active {
+  background-color: #fff;
+  color: #000000;
+  border-color: rgb(153, 153, 153);
+  box-shadow: none;
+  height: 20px;
+}
+
+.show > .btn-primary.dropdown-toggle {
+  background-color: #fff;
+  color: #000000;
+  border-color: #fff;
+}
+
+.btn-check:checked + .btn-primary:focus,
+.btn-check:active + .btn-primary:focus,
+.btn-primary:active:focus,
+.btn-primary.active:focus,
+.show > .btn-primary.dropdown-toggle:focus {
+  box-shadow: none;
+}
+
+.btn-primary:hover {
+  color: #000;
+  background-color: #fff;
+  border-color: rgb(153, 153, 153);
+}
+
+.rows-drop {
+  padding-top: 0;
+  overflow: visible;
+}
+
+.col-drop {
+  padding: 10px;
+  overflow: visible;
+}
+
+.dropy {
+  height: 10px;
+  width: 25px;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  color: black;
+  content: var(--bs-breadcrumb-divider, "»")
+    /* rtl: var(--bs-breadcrumb-divider, "/") */;
+}
