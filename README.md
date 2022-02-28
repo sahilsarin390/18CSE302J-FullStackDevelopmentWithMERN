@@ -4,13 +4,19 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN)](https://badges.pufler.dev)
 
+<hr>
+
 ### Original Webpage:
 
 ![image](https://raw.githubusercontent.com/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN/master/Assignment-1/sample-webpage/public/React%20App_files/screencapture-srmist.png)
 
+<hr>
+
 ### Replicated Webpage using React:
 
 ![image](https://raw.githubusercontent.com/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN/master/Assignment-1/sample-webpage/public/React%20App_files/screencapture-localhost.png)
+
+<hr>
 
 ## Getting Started with Create React App
 
