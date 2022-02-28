@@ -8,6 +8,10 @@
 
 ![image](https://raw.githubusercontent.com/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN/master/Assignment-1/sample-webpage/public/React%20App_files/screencapture-srmist.png)
 
+#### Replicated Webpage using React:
+
+![image](https://raw.githubusercontent.com/sahilsarin390/18CSE302J-FullStackDevelopmentWithMERN/master/Assignment-1/sample-webpage/public/React%20App_files/screencapture-localhost.png)
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
