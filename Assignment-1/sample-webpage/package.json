@@ -2,7 +2,7 @@
   "name": "sample-webpage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sahilsareen.me/18CSE302J-FullStackDevelopmentWithMERN/",
+  "homepage": "https://sahilsareen.me/",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
