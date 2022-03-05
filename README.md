@@ -1,7 +1,7 @@
 </br>
 <hr>
 
-### Demo - https://sahilsareen.me/18CSE302J-FullStackDevelopmentWithMERN/
+### Demo: https://sahilsareen.me/18CSE302J-FullStackDevelopmentWithMERN/
 
 <hr>
 
